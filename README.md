@@ -9,7 +9,7 @@ A web crawler based on python was used to fetch raw data. News is parsed from ht
 
 After that, labels were inserted into mongodb collection.
 
-[Insert labels into mongodb](Add Label to articles in Mongodb.ipynb)
+[Insert labels into mongodb](insert_labels.ipynb)
 
 ## Model training and test
 In this process, data is preprocessed. Then different models including multi-logistic regression, SVM, Naive Bayes, and Neural Network were trained and tested.
