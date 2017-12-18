@@ -16,7 +16,7 @@ In this process, data is preprocessed. Then different models including multi-log
 ## Conclusion
 Among multi-logistic regression, SVM, maive Bayes, and Neural Network. Naive Bayes has the shortest runing time which is  and Neural Network has the best accuracy with but with the longest running time.
 The runing time of all method:
-(RT.png)
+![](RT.png)
 
 The accuracy:
-(accuracy.png)
+![](accuracy.png)
