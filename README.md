@@ -11,12 +11,15 @@ After that, labels were inserted into mongodb collection.
 
 ## Model training and test
 In this process, data is preprocessed. Then different models including multi-logistic regression, SVM, Naive Bayes, and Neural Network were trained and tested.
-[Machine Learning](ML_project.ipynb)
+[Machine Learning](ml_project.ipynb)
 
 ## Conclusion
 Among multi-logistic regression, SVM, maive Bayes, and Neural Network. Naive Bayes has the shortest runing time which is  and Neural Network has the best accuracy with but with the longest running time.
+
 The runing time of all method:
+
 ![](RT.png)
 
 The accuracy:
+
 ![](accuracy.png)
